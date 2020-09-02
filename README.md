@@ -4,7 +4,8 @@ This is my public portfolio
 
 # Assignments
 
-* [HTML Pagina 007B](https://wincacademystudent.github.io/assignment/007B/index.html)
+* Opdracht 007B - Een groter formulier  
+[TalentLMS 4082](https://winc.talentlms.com/unit/view/id:4082) - [HTML Pagina 007B](https://wincacademystudent.github.io/assignment/007B/index.html)
 
 ## HTML + CSS
 
