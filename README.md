@@ -10,3 +10,7 @@ This is my public portfolio
 ## HTML + CSS
 
 * https://eager-ritchie-2b9633.netlify.app/ - Hans Kool
+
+# Fellow students on Github
+
+* Gregor - https://github.com/gregorvwk
